@@ -21,10 +21,9 @@ function Widgets() {
         <InfoIcon />
       </div>
       {newArticle("Shroog is the best!!", "Top news - 555 readers")}
-      {newArticle("PHP ", "Top news - 555 readers")}
-      {newArticle("Shroog is the best!!", "Top news - 555 readers")}
-      {newArticle("Shroog is the best!!", "Top news - 555 readers")}
-      {newArticle("Shroog is the best!!", "Top news - 555 readers")}
+      {newArticle("PHP ", "Top news - 55 readers")}
+      {newArticle("React", "Top news - 555 readers")}
+     
     </div>
   );
 }
